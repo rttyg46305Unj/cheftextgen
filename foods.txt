@@ -1,0 +1,451 @@
+ants
+aushak
+aranygaluska
+baozi
+bobotie
+bubble tea
+beverage
+tea
+chamomile tea
+matcha tea
+oolong tea
+juice
+juice box
+orange juice
+cranberry juice
+apple juice
+milk
+cow milk
+goat milk
+milkshake
+plant milk
+almond milk
+coconut milk
+hemp milk
+pea milk
+rice milk
+soy milk
+soft drink
+mountain dew
+sprite
+fanta
+broccoli
+cauliflower
+chimichanga
+chinese sausages
+cookie
+ginger snap
+hallongrotta
+afghan biscuits
+apple
+alfajor
+almond biscuit
+chocolate chip cookie
+oatmeal raisin cookie
+lebkuchen
+aachener printen
+cornish fairing
+speculaas
+springerle
+kruidnoten
+acibadem kurabiyesi
+sesame snaps
+cracker
+hardtack
+abernethy
+cold cuts
+bok choy
+butter tart
+bread
+anadama bread
+anpan
+bagel
+baghrir
+breadstick
+boule
+cornbread
+garlic bread
+banana bread
+buttered bread
+bialy
+croissant
+fugazza
+pirozhki
+baguette
+sfiha
+teacake
+korovai
+dosa
+pretzel
+toast
+flatbread
+arepa
+naan
+pupusa
+roti canai
+chapati
+baked beans
+burrito
+crunchwrap supreme
+mission burrito
+cabbage
+cabbage roll
+sauerkraut
+cake
+banana cake
+cheesecake
+chocolate cake
+carrot cake
+strawberry cake
+ice cream cake
+vanilla cake
+red velvet cake
+cupcake
+fudge cake
+medivnyk
+birthday cake
+poundcake
+cake pop
+list of cakes
+charcuterie
+chocolate
+white chocolate
+dark chocolate
+milk chocolate
+ruby chocolate
+blond chocolate
+chow mein
+pancake
+chopped liver
+cheese
+gruyère cheese
+mozzarella
+brie
+feta
+blue cheese
+parmesan
+parmigiano reggiano
+pizza cheese
+cheddar cheese
+processed cheese
+tasty cheese
+cheese stick
+cheesestrings
+carrot
+candied carrots
+congee
+curry
+butter chicken
+japanese curry
+nasi kari
+rice and curry
+dandan noodles
+duck as food
+peking duck
+donuts
+jam
+sprinkles
+donut holes
+chocolate
+krispy kreme
+tim hortons
+mcdonalds
+dumplings
+fun guo
+har gow
+momo
+pierogi
+wonton
+deep fried butter
+duchess potatoes
+eggs benedict
+fou fou
+fruits
+apricot
+apple
+banana
+black currant
+cantaloupe
+durian
+date fruit
+dragonfruit
+orange fruit
+cherry
+lychee
+kiwi
+watermelon
+avocado
+apricot
+papaya
+peach
+pear
+persimmon
+pineapple
+mandarin orange
+mango
+strawberry
+blueberry
+raspberry
+blackberry
+cranberry
+french fries
+poutine
+gravy
+grains
+cereal
+breakfast cereal
+corn
+popcorn
+rice
+biryani
+fried rice
+onigiri
+hallaca
+ice cream
+ice cream cake
+chocolate
+vanilla
+pineapple
+cookies and cream
+mint chocolate
+rocky road
+boysenberry
+biscuit tortoni
+blue moon
+queso
+hokey pokey
+moose tracks
+mango
+tiger tail
+strawberry
+superman
+spumoni
+pistachio
+moon mist
+neapolitan
+inyama yenhloko
+jellied moose nose
+mayonnaise
+kale
+kebab
+mashed potatoes
+mousse
+mooncake
+miso soup
+meats
+beef
+wagyu
+steak
+lomo saltado
+meatball
+salami
+pepperoni
+finocchiona
+pork
+bacon
+ham
+poultry
+buffalo wing
+chicken balls
+chicken nuggets
+chicken steak
+chicken feet
+chicken parmesan
+roast chicken
+musakhan
+ribs
+sausage
+currywurst
+seafood
+kipper
+fish
+salmon
+shrimp and prawn
+shark
+english muffin
+eggs
+ant egg soup
+deep fried egg
+scrambled egg
+sunny side up
+omelette
+boiled egg
+tea egg
+century egg
+iron egg
+smoked egg
+soy egg
+chinese red eggs
+poached egg
+zucchini slice
+falafel
+oatmeal
+onion rings
+pasta
+lasagna
+linguini
+ravioli
+ravioli capresi
+ravioli scarpolesi
+pasticho
+pasta a paolina
+pasta e ceci
+pasta e fagioli
+carbonara
+bolognese
+spaghetti
+spaghetti and meatballs
+spaghetti alla carrettiera
+spaghetti alla carbonara
+mac and cheese
+pancit canton
+fettuccine
+vincisgrassi
+ploye
+pudding
+chocolate pudding
+pie
+aloo pie
+shepherds pie
+apple pie
+bakewell tart
+banoffee pie
+bumbleberry pie
+cherry pie
+chicken and mushroom pie
+cream pie
+banana cream pie
+hornazo
+melktert
+pumpkin pie
+pirog
+pot pie
+key lime pie
+rhubarb pie
+peach pie
+blueberry pie
+yau gok
+zelnik
+rasmalai
+ramen
+aburasoba
+tsukemen
+tonkotsu ramen
+panettone
+pizza
+detroit style pizza
+pizza marinara
+pepperoni
+hawaiian
+margherita
+rolls
+croquette
+egg roll
+spring roll
+lumpia
+burrito
+sartu di riso
+sandwiches
+banh mi
+blt
+corned beef
+vegetable sandwich
+melt sandwich
+grilled cheese
+panini
+hamburgers
+chili burger
+cheeseburgers
+bacon cheeseburger
+whopper
+chicken burger
+hot dog
+chili dog
+peanut butter and jam sandwich
+submarine sandwich
+samosa
+salad
+ambrosia
+caesar salad
+potato salad
+paska
+ptashyne moloko
+sauce
+barbecue sauce
+hummus
+ketchup
+soy sauce
+worcestershire sauce
+gravy
+tomato sauce
+sour cream
+cranberry sauce
+sugar
+white sugar
+brown sugar
+jaggery
+tempeh
+turon
+shaved ice
+soup
+aguadito
+apple soup
+bun bo hue
+birds nest soup
+champon
+chicken soup
+chowder
+clam chowder
+corn chowder
+french onion soup
+goulash
+tyurya
+sinigang
+sharks fin soup
+shchi
+solyanka
+stracciatella
+minestrone
+tomato soup
+watercress soup
+spinach
+creamed spinach
+sushi
+california roll
+stew
+burgoo
+chili
+cream stew
+irish stew
+locro
+pichelsteiner
+ratatouille
+rendang
+tocana
+taco
+tamale
+taquitos
+tempura
+tequenos
+tortilla chips
+quesadillas
+turnover
+jamaican patty
+ugali
+varenye
+vegetables
+asparagus
+baked potato
+beetroot
+broccoli
+cauliflower
+carrot
+celery
+root vegetable
+waffle
+wuzetka
+nacho
+yogurt
+greek yogurt
+parfait
+youtiao
